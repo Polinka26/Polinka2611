@@ -1,0 +1,22 @@
+{
+  "name": "polinka2611",
+  "version": "1.0.0",
+  "description": "Basic demonstrtion app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Polinka26/Polinka2611.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polinka26/Polinka2611/issues"
+  },
+  "homepage": "https://github.com/Polinka26/Polinka2611#readme"
+}
